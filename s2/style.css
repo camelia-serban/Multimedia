@@ -1,0 +1,36 @@
+main{
+    display: block;
+}
+
+/*selectors*/
+
+/*simple selectors*/
+ /*1. element selector*/
+a {
+    color: green
+}
+
+h5, p, small {
+    color:blue
+}
+
+/*2. id selector*/
+#iframe {
+    /*color: orange*/
+    color: rgb(255,0,0) 
+}
+
+/*class selector*/
+.custom_a{
+    color: #3388AA
+}
+
+/*class selector applied to an element*/
+a.custom_c{
+    color:orangered
+}
+
+
+
+
+
